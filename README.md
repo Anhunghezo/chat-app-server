@@ -17,6 +17,8 @@ In order to run this project node.js and npm both need to have been installed.
 ## Deployment
 <ol>
 <li>Clone this repo</li>
+<li>Create `node_modules` file</li>
+<li>Run `npm install` to update package</li>
 <li>Run `npm start` to start the Express server.</li>
 <li>Visit http://localhost:5000/</li>
 </ol>
