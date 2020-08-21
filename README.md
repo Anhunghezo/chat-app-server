@@ -6,6 +6,7 @@ A few features in this app:
 <li>Send message</li>
 <li>Create channel to start conversations</li>
 </ol>
+Test directly: https://chat-app-server-linh.herokuapp.com/
 
 ## About the app 
 This is a API server (in Node/Express)
